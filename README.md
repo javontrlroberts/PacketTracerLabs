@@ -1,0 +1,14 @@
+<p><strong><u><a href="https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals#cisco-packet-tracer-practicals">Cisco Packet Tracer Lab</a> Exercises</u></strong></p>
+<p><br /> ⭐ Star it on GitHub!</p>
+<p><a href="https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals#about-packet-tracer-"><strong>About Packet Tracer: <br /> </strong></a></p>
+<p>Packet Tracer labs allow us to simulate a networking environment from our homes! I have been teaching myself I.T. and have completed a variety of lab exercises to hone my skills. Many aspiring techs and seasoned professionals use the Cisco Packet Tracer software application to practice, or recreate their enterprise environments by configuring routers, switches, and building network topologies using its Command Line Interface. Additionally, it assists with preparation for vital exams such as the CCNA or CompTIA Network+ (Plus) Certification.&nbsp;&nbsp;</p>
+<p><a href="https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals#purpose-of-this-repository-"><strong>Purpose of this repository: <br /> </strong></a></p>
+<p>I am by no means an expert because I am just getting started in this field of study. However, I do believe in the proverb &ldquo;each one, teach one.&rdquo; I am uploading my own projects to this repository for anyone to observe or critique some basic packet tracer labs.<br /> &nbsp;<br /> You can download these .pka files and run them in the Cisco packet tracer software application on your PC. You may practice troubleshooting the network topology or follow the instructions I have implemented to recreate the lab(s) yourself.</p>
+<p><a href="https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals#how-to-use-this-repo"><strong>How to use this repo:</strong></a></p>
+<p>Install Cisco packet tracer on your local machine then go to any .pka file that you&rsquo;d like to view or attempt in packet tracer. Click on the download button to retrieve the file. Afterwards, you will be able to open it in Packet Tracer and make some adjustments on your own. Please note that you must have a NetAcad.com or SkillsForAll.com account to launch the Cisco packet tracer software.</p>
+<p><a href="https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals#list-of-experiments-"><strong>List of completed projects:</strong></a></p>
+<p><a href="https://github.com/javontrlroberts/PacketTracerLabs/blob/ab51bd404f761ec80a6da5156887fb58d40590cd/Rip%20version%202%20configuration.pka"><strong>Rip version 2 configuration.</strong></a></p>
+<p><strong><u>YouTube Videos (Step By Step Tutorials on the following topics)</u></strong></p>
+<p>Coming soon.</p>
+<p><strong><u>Read My Tech Chronicles!</u></strong></p>
+<p><a href="https://javononline.tech/"><strong>Javon's Tech Chronicles</strong></a><strong> (</strong>In-progress)<a href="https://github.com/swati-gwc/Cisco-Packet-Tracer-Practicals#want-to-contribute"><strong><br /> </strong></a></p>
